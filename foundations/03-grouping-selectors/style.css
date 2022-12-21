@@ -1,0 +1,14 @@
+.click-a,
+.click-b{
+    font-size: 28px;
+    font-family: 'Times New Roman', Helvetica, sans-serif;
+}
+
+.click-a{
+    color: white;
+    background-color: black;
+}
+
+.click-b{
+background-color: yellow;
+}
